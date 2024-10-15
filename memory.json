@@ -1,0 +1,13 @@
+{
+  "personal.user.username": "vaibhavacharya",
+  "personal.user.full_name": "Vaibhav Acharya",
+  "personal.user.location": "Ajmer, Rajasthan, India",
+  "personal.user.career.profession": "product engineer",
+  "personal.user.preferences.addressing_format": "user likes to be referred by name",
+  "procedure.organizing_files_and_folders": "Identify file types, ask for confirmation for user with detailed changes you want to make, create folders and subfolders by categories, move files and subfolders into respective folders.",
+  "device.os.name": "macOS",
+  "device.os.version": "23.6.0 (Darwin)",
+  "device.os.architecture": "ARM64",
+  "device.hardware.model": "MacBook",
+  "device.hardware.device_name": "Vaibhav's MacBook"
+}
